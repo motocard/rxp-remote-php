@@ -24,7 +24,7 @@
     "hafriedlander/phockito": "1.0.*",
     "apache/log4php": "2.3.*",
     "symfony/serializer": "6.4.9",
-    "symfony/property-access": "2.7.*"
+    "symfony/property-access": "6.4.8"
   },
   "autoload": {
     "psr-4": {
